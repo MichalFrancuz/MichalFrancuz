@@ -15,7 +15,7 @@ My learning source: <a href="https://codegym.cc/en"> Code Gym</a> , <a href="htt
 - my first job as java developer
 
 <img src="java-a-beginners-guide-ninth-edition-b-iext116283405.jpg" alt=""> <img src="JavaFX_Logo.png" alt="">
-<img src="spring2nowe.png" alt="">
+<img src="spring2nowy.png" alt="">
 
 <!--
 **MichalFrancuz/MichalFrancuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
