@@ -2,7 +2,7 @@
 
 I'm Michał, student on last year of bachelor degree - computer science in <a href="https://wsb.edu.pl/uczelnia/aktualnosci/akademia-wsb-na-podium-rankingu-szkol-wyzszych-perspektywy-2022.html"> Akademia WSB</a>. I started learning java in april 2022. I was previously working as computers networks assembler and now as networking engineer. Every day I'm learning somethink new about Java or training what I was learned in this. After Java I would like to start programming in Javascript. My interesting is traveling, watching good serials as well as movie and reading about new technology.
 
-My learning source: <a href="https://codegym.cc/"> Code Gym</a> , <a href="https://www.udemy.com/course/the-complete-java-9-masterclass-beginner-to-expert/"> course Paulo Dichone's from udemy</a> , <a href="https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/"> course Dheeru Mundluru's from udemy</a> , book Java: A Beginner's Guide, Herbert Schildt .
+My learning source: <a href="https://codegym.cc/quests"> Code Gym</a> , <a href="https://www.udemy.com/course/the-complete-java-9-masterclass-beginner-to-expert/"> course Paulo Dichone's from udemy</a> , <a href="https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/"> course Dheeru Mundluru's from udemy</a> , book Java: A Beginner's Guide, Herbert Schildt .
 
 🌱What I’m currently learning
 
