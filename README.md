@@ -6,12 +6,18 @@ I'm Michał, student on last year of bachelor degree - computer science in <a hr
 
 My learning source: <a href="https://codegym.cc/quests"> Code Gym</a> , <a href="https://www.udemy.com/course/the-complete-java-9-masterclass-beginner-to-expert/"> course Paulo Dichone's from udemy</a> , <a href="https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/"> course Dheeru Mundluru's from udemy</a> , book Java: A Beginner's Guide, Herbert Schildt .
 
-🌱What I’m currently learning
+🔭 What I'm currently learn
+
+- basic of Java (classes, data structures, inheritance, exception handling)
+- HTML 
+
+🌱 What I’m currently learning
 
 - programing by using JavaFX next by using Springboot
 - testing my code with JUnit
+- CSS
 
-🔭 What I'm currently looking for
+🤔 What I'm currently looking for
 
 - my first internship as java developer
 - my first job as java developer
