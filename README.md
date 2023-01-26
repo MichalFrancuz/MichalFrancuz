@@ -11,7 +11,7 @@ My learning source: <a href="https://codegym.cc/quests"> Code Gym</a> , <a href=
 - basic of Java (classes, data structures, inheritance, exception handling)
 - HTML 
 
-🌱 What I’m currently learning
+🌱 What I have already learned
 
 - programing by using JavaFX next by using Springboot
 - testing my code with JUnit
