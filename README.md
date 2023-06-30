@@ -4,7 +4,7 @@ I'm Michał, student on last year of bachelor degree - computer science in <a hr
 
 <a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/"> My LinkedIn </a>
 
-My learning source: <a href="https://frontendmasters.com/dashboard/> FrontendMasters </a>, <a href="https://codegym.cc/quests"> Code Gym</a>. 
+My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMasters </a>, <a href="https://codegym.cc/quests"> Code Gym</a>. 
 
 🧩 What I have already learned
 
