@@ -6,20 +6,20 @@ I'm Michał, student on last year of bachelor degree - computer science in <a hr
 
 My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMasters </a>, <a href="https://codegym.cc/quests"> Code Gym</a>. 
 
-🧩 What I have already learned
+🧩 What I have already learned:
 
 🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules)
 🚀 HTML
 🚀 CSS
 🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing)
 
-👨‍💻 What I’m currently learning
+👨‍💻 What I’m currently learning:
 
 🚀 React.js
 
-🎯 My goals
+🎯 My goals:
 
-🚀 my first internship as frontend developer
+<p>🚀 my first internship as frontend developer</p>
 🚀 my first group of clients for websites
 
 <img src="java-a-beginners-guide-ninth-edition-b-iext116283405.jpg" alt=""> <img src="JavaFX_Logonowe.png" alt=""> <img src="spring2nowy2.png" alt="">
