@@ -7,20 +7,19 @@ I'm Michał, student on last year of bachelor degree - computer science in <a hr
 My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMasters </a>, <a href="https://codegym.cc/quests"> Code Gym</a>. 
 <p></p>
 🧩 What I have already learned:
-<p>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules)</p>
-<p>🚀 HTML</p>
-<p>🚀 CSS</p>
-<p>🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing)</p>
+<br>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules),
+<br>🚀 HTML,
+<br>🚀 CSS,
+<br>🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing).
 <p></p>
-
 👨‍💻 What I’m currently learning:
-🚀 React.js
-
+<br>🚀 React.js.
+<p></p>
 🎯 My goals:
-<p>🚀 my first internship as frontend developer</p>
-🚀 my first group of clients for websites
-
-<img src="java-a-beginners-guide-ninth-edition-b-iext116283405.jpg" alt=""> <img src="JavaFX_Logonowe.png" alt=""> <img src="spring2nowy2.png" alt="">
+<br>🚀 my first internship as frontend developer,
+<br>🚀 my first group of clients for develop websites for them.
+<p></p>
+<img src="toGithubProSH.png" alt=""> <img src="JavaFX_Logonowe.png" alt=""> <img src="spring2nowy2.png" alt="">
 
 <!--
 **MichalFrancuz/MichalFrancuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
