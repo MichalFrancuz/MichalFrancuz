@@ -8,10 +8,10 @@ My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMas
 
 🧩 What I have already learned:
 
-🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules)
-🚀 HTML
-🚀 CSS
-🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing)
+<p>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules)</p>
+<p>🚀 HTML</p>
+<p>🚀 CSS</p>
+<p>🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing)</p>
 
 👨‍💻 What I’m currently learning:
 
