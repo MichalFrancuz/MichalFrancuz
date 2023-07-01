@@ -1,10 +1,10 @@
 ### Hi there! 👋
 
-I'm Michał, student on last year of bachelor degree - computer science in <a href="https://wsb.edu.pl/uczelnia/aktualnosci/akademia-wsb-na-podium-rankingu-szkol-wyzszych-perspektywy-2022.html"> Akademia WSB</a>. My skills: HTML, CSS, JavaScript, Java and Kotlin. Now I focus on learning React. My goal is to develop full response web apps and multi-tab websides. I was previously working as computers networks assembler and now as network engineer. For me learning of programming is like a hobby. I like coding in frontend becaouse I can see immediately effect of my work. Next great technology for me is programming language Ruby. Everything I learning myself. My interesting is traveling, watching good serials as well as movie and reading about new technology.
+I'm Michał, student on last year of bachelor degree - computer science in <a href="https://wsb.edu.pl/uczelnia/aktualnosci/akademia-wsb-na-podium-rankingu-szkol-wyzszych-perspektywy-2022.html" target="_blank" rel="noopener noreferrer"> Akademia WSB</a>. My skills: HTML, CSS, JavaScript, Java and Kotlin. Now I focus on learning React. My goal is to develop full response web apps and multi-tab websides. I was previously working as computers networks assembler and now as network engineer. For me learning of programming is like a hobby. I like coding in frontend becaouse I can see immediately effect of my work. Next great technology for me is programming language Ruby. Everything I learning myself. My interesting is traveling, watching good serials as well as movie and reading about new technology.
 
-<a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/" target="_blank"> My LinkedIn </a>
+<a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/" target="_blank" rel="noopener noreferrer"> My LinkedIn </a>
 
-My learning source: <a href="https://frontendmasters.com/dashboard" target="_blank"> FrontendMasters </a>, <a href="https://codegym.cc/quests" target="_blank"> Code Gym</a>. 
+My learning source: <a href="https://frontendmasters.com/dashboard" target="_blank" rel="noopener noreferrer"> FrontendMasters </a>, <a href="https://codegym.cc/quests" target="_blank" rel="noopener noreferrer"> Code Gym</a>. 
 <p></p>
 🧩 What I have already learned:
 <br>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules),
