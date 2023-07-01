@@ -2,9 +2,9 @@
 
 I'm Michał, student on last year of bachelor degree - computer science in <a href="https://wsb.edu.pl/uczelnia/aktualnosci/akademia-wsb-na-podium-rankingu-szkol-wyzszych-perspektywy-2022.html"> Akademia WSB</a>. My skills: HTML, CSS, JavaScript, Java and Kotlin. Now I focus on learning React. My goal is to develop full response web apps and multi-tab websides. I was previously working as computers networks assembler and now as network engineer. For me learning of programming is like a hobby. I like coding in frontend becaouse I can see immediately effect of my work. Next great technology for me is programming language Ruby. Everything I learning myself. My interesting is traveling, watching good serials as well as movie and reading about new technology.
 
-<a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/"> My LinkedIn </a>
+<a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/" target="_blank"> My LinkedIn </a>
 
-My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMasters </a>, <a href="https://codegym.cc/quests"> Code Gym</a>. 
+My learning source: <a href="https://frontendmasters.com/dashboard" target="_blank"> FrontendMasters </a>, <a href="https://codegym.cc/quests" target="_blank"> Code Gym</a>. 
 <p></p>
 🧩 What I have already learned:
 <br>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules),
@@ -19,7 +19,12 @@ My learning source: <a href="https://frontendmasters.com/dashboard"> FrontendMas
 <br>🚀 my first internship as frontend developer,
 <br>🚀 my first group of clients for develop websites for them.
 <p></p>
-<img src="toGithubProSH.png" alt=""> <img src="JavaFX_Logonowe.png" alt=""> <img src="spring2nowy2.png" alt="">
+My JavaScript projects:
+<p></p>
+<img src="toGithubProSH.png" alt="Screenshot of my portfolio project"> <img src="wordGameS.png" alt="Screenshot of my word games project"> 
+React's project for learning:
+<p></p>
+<img src="reactLearning.png" alt="Screenshot of my project to react learning">
 
 <!--
 **MichalFrancuz/MichalFrancuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
