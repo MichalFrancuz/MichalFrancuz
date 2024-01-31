@@ -4,8 +4,6 @@ I'm Michał, student on last year of bachelor degree - computer science in <a hr
 
 <a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/" target="_blank" rel="noopener noreferrer"> My LinkedIn </a>
 
-<a href="https://stupendous-paletas-ce646d.netlify.app/" target="_blank" rel="noopener noreferrer"> My Portfolio Website </a>
-
 My learning source: <a href="https://frontendmasters.com/dashboard" target="_blank" rel="noopener noreferrer"> FrontendMasters </a>, <a href="https://codegym.cc/quests" target="_blank" rel="noopener noreferrer"> Code Gym</a>. 
 <p></p>
 🧩 What I have already learned:
