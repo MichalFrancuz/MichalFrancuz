@@ -1,35 +1,84 @@
-### Hi there! 👋
+# Hi, I'm Michal Francuz 👋
 
-I'm Michał. I graduated Computer Science in WSB University (Bachelor) <a href="https://wsb.edu.pl/uczelnia/aktualnosci/akademia-wsb-na-podium-rankingu-szkol-wyzszych-perspektywy-2022.html" target="_blank" rel="noopener noreferrer"> Akademia WSB</a>. My skills: HTML, CSS, JavaScript, Java and Kotlin. Now I focus on learning Python. My goal is to develop full response web apps and multi-tab websides and web apps. I was previously working as cable technician and currently as network engineer. For me learning of programming is like a hobby. I like coding in frontend becaouse I can see immediately effect of my work. My interesting is traveling, watching good serials as well as movie and reading about new technology.
+### Software Engineer | Java & Spring Boot | React & TypeScript | AWS
 
-<a href="https://www.linkedin.com/in/micha%C5%82-francuz-45499a110/" target="_blank" rel="noopener noreferrer"> My LinkedIn </a>
+Computer Science MSc student at the University of Liverpool, with a background in network engineering and technical team leadership.
 
-My learning source: <a href="https://frontendmasters.com/dashboard" target="_blank" rel="noopener noreferrer"> FrontendMasters </a>, <a href="https://codegym.cc/quests" target="_blank" rel="noopener noreferrer"> Code Gym</a>. 
-<p></p>
-🧩 What I have already learned:
-<br>🚀 basic of JavaScript (DOM, Object Methods, Arrow Functions, using APIs, Async Function, Modules),
-<br>🚀 HTML,
-<br>🚀 CSS,
-<br>🚀 basic of Java and JavaFX (classes, data structures, inheritance, exception handling, swing).
-<p></p>
-My JavaScript projects:
-<p></p>
-<img src="toGithubProSH.png" alt="Screenshot of my portfolio project"> <img src="wordGameS.png" alt="Screenshot of my word games project"> 
-React's project for learning:
-<p></p>
-<img src="reactLearning.png" alt="Screenshot of my project to react learning">
+I focus on building full-stack applications, backend systems, REST APIs and cloud-deployed solutions.
 
-<!--
-**MichalFrancuz/MichalFrancuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 MSc Computer Science — University of Liverpool (expected 2028)
+- 💻 Developing full-stack applications using Java, Spring Boot, React and TypeScript
+- ☁️ Hands-on experience deploying applications on AWS
+- 🛠️ Background in network engineering, infrastructure and team leadership
+- 🚀 Interested in software engineering, cloud architecture and scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Framework
+- Hibernate
+- REST APIs
+- JWT Authentication
+- Maven
+
+**Frontend**
+- React
+- TypeScript
+- JavaScript
+- Angular
+- HTML5 / CSS3
+
+**Databases**
+- MySQL
+- Microsoft SQL Server
+- Flyway
+
+**Cloud & Infrastructure**
+- AWS EC2
+- AWS RDS
+- AWS S3
+- AWS CloudFront
+- Linux
+- Networking
+
+**Tools**
+- Git / GitHub
+- IntelliJ IDEA
+- WebStorm
+- Visual Studio Code
+
+## Featured Project
+
+### BizFlow — SaaS Project Management Platform
+
+A full-stack application designed, developed and deployed independently.
+
+- Backend: Java, Spring Boot, REST API
+- Frontend: React, TypeScript
+- Database: MySQL
+- Authentication: JWT and refresh tokens
+- Infrastructure: AWS EC2, RDS, S3 and CloudFront
+
+**Live Demo:** https://d1zfyq87hr6wdg.cloudfront.net/
+
+**Repositories:**
+- [Backend](https://github.com/MichalFrancuz/bizflow-backend)
+- [Frontend](https://github.com/MichalFrancuz/BizFlow-SaaS-frontend)
+
+## Education
+
+**MSc Computer Science** — University of Liverpool  
+Expected completion: 2028
+
+**BSc Computer Science** — WSB University  
+2024
+
+## Connect
+
+- [LinkedIn](YOUR_LINKEDIN_URL)
+- [GitHub](https://github.com/MichalFrancuz)
+  
